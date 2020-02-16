@@ -159,7 +159,7 @@ uiwait(msgbox('To continue for left ear test click ok'));
 
 thres_matrix = [];
 loaded_freqs = [];
-set(handles.edit1, 'string' , 'Test for left ear')
+set(handles.edit1, 'string' , 'Test for Right ear')
 
 
 for freq = frequencies
@@ -197,7 +197,7 @@ uiwait(msgbox('To continue for left ear test click ok'));
 
 thres_matrix = [];
 loaded_freqs = [];
-set(handles.edit1, 'string' , 'Test for right year')
+set(handles.edit1, 'string' , 'Test for Left ear')
 
 
 for freq = frequencies
